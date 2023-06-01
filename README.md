@@ -4,25 +4,32 @@
 </p>
 
 ```
-jackmappotion_CFG = {
+jackmappotion.json
+
+{
     "Name": "jackmappotion",
     "Skill": {
         "Main": {
             "Python": {
                 "Data Engineering": {
-                    "Data Preprocessing": "Very Good",
-                    "Data Pipelining": "Very Good",
-                    "Data Modeling": "Fine",
-                    "Model Serving": "Good",
+                    "Data ETL": ["MySQL","Airflow"],
+                    "Data Preprocessing": ["Pandas","Numpy"],
+                    "Data Pipelining": ["Airflow","Django"],
+                    "MLOps": ["Airflow","Django","MLOps"]
                 }
             },
-            "DataBase": {"MySQL": "Good", "PostgreSQL": "Fine"},
-            "Cloud": {"Oracle": "Good", "NaverCloud": "Good", "AWS": "Fine"},
+            "OS" : ["ubuntu","centOS","mac"]  // CLI Familiar
+            "DataBase": ["MySQL","PostgreSQL"],
+            "Cloud": ["Oracle","NaverCloud","AWS"]
         },
         "Sub": {
-            "Python": {"Backend": {"Django": "Fine", "Flask": "Tried"}},
-            "Java": {"Spring": "Tried"},
-        },
-    },
+            "Python": {
+                "Backend": ["Django"]
+            },
+            "Java": {
+                "Backend": ["Sprint"]
+            }
+        }
+    }
 }
 ```
