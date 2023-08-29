@@ -20,7 +20,7 @@ jackmappotion.json
             },
             "OS" : ["ubuntu","centOS","mac"]  // CLI Familiar
             "DataBase": ["MySQL","PostgreSQL"],
-            "Cloud": ["Oracle","NaverCloud","AWS"]
+            "Cloud": ["GCP","Oracle","NaverCloud","AWS"]
         },
         "Sub": {
             "Python": {
