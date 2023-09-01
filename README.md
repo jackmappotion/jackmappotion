@@ -27,7 +27,7 @@ jackmappotion.json
                 "Backend": ["Django"]
             },
             "Java": {
-                "Backend": ["Sprint"]
+                "Backend": ["Spring"]
             }
         }
     }
