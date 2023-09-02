@@ -18,7 +18,7 @@ jackmappotion.json
                     "MLOps": ["Airflow","Django","MLOps"]
                 }
             },
-            "OS" : ["ubuntu","centOS","mac"]  // CLI Familiar
+            "OS" : ["ubuntu","centOS","macos"]  // CLI Familiar
             "DataBase": ["MySQL","PostgreSQL"],
             "Cloud": ["GCP","Oracle","NaverCloud","AWS"]
         },
