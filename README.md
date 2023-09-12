@@ -6,8 +6,8 @@
 ### Outlying Imagines, Inlying Implements
 
 ---
-Currently
-  : working on KRX-Algorithm-Competition (final)
+Currently  
+  : working on KRX-Algorithm-Competition (final)  
   : designing most ideal backpack for developer
 
 ---
