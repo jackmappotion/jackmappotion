@@ -7,7 +7,7 @@
 
 ---
 Currently  
-  : working on KRX-Algorithm-Competition (final)  
+  : working on KRX-Algorithm-Competition (final)  [10.01]
   : designing most ideal backpack for developer
 
 ---
