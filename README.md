@@ -8,7 +8,7 @@
 ---
 Currently  
   : working on Personal System Trading (Quant) </br>
-  : studying gitlab (think it may be better platform for data engineering project)
+  : studying gitlab (think it may be better platform for data engineering project)  
   : working in other github (Quant Lecture)
 ---
 Email : jackmappotion@gmail.com
