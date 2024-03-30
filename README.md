@@ -10,6 +10,7 @@ Currently
   : working on Personal System Trading (Quant) </br>
   : studying gitlab (think it may be better platform for data engineering project)  
   : working in other github (Quant Lecture)
+  : Django this days
 ---
 Email : jackmappotion@gmail.com
 
