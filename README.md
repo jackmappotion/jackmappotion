@@ -5,9 +5,9 @@
 
 ## This Github is Raw Archive.
 
----
-Currently  
-  : Formatting My Past Projects (2024.04.15 ~)
----
-Email : jackmappotion@gmail.com
 
+Currently  
+- Formatting My Past Projects (2024.04.15 ~)
+
+Contact me!
+- Email : jackmappotion@gmail.com
