@@ -3,7 +3,7 @@
   <img src="https://i.seadn.io/gcs/files/ac0e5a62da6365909c2f5e40ed048a8c.png" />
 </p>
 
-### Outlying Imagines, Inlying Implements
+## This Github is Raw Archive.
 
 ---
 Currently  
@@ -11,7 +11,3 @@ Currently
 ---
 Email : jackmappotion@gmail.com
 
-
-
-#### 정리된 프로젝트
-https://github.com/onegolsu
