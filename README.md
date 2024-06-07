@@ -9,9 +9,8 @@
 ## Currently Working on
 
 - Formatting My Past Projects (2024.04.15 ~)
-- Apache Kafka Studying
-  - trying to use it with airflow
-- IBM Data-Engieering Course
+- Working on Similarity
+
 
 ## Contact me
 
