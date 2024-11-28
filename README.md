@@ -8,8 +8,8 @@
 
 ## Currently Working on / 생각하고 있는 것들이에용.
 
-- Working on `similarity` stuffs
-- 
+- 유사도에 대한 공부중 / Working on `similarity` stuffs
+- 경제학원론 공부중 / Studying `Principles of Economics`
 
 ## Contact me / 연락하셔도 좋아용.
 
